@@ -97,6 +97,12 @@ WebDriverIo-PathaoApp/
 └── wdio.conf.js                         # WebDriverIO and Appium configuration
 ```
 
+## Demo Video
+
+Watch the full automation test execution demo:
+
+[Pathao App Automation Demo](https://youtu.be/5DaVmxvw24A)
+
 ---
 
 ## Test Execution Report
