@@ -96,6 +96,7 @@ WebDriverIo-PathaoApp/
 ├── README.md
 └── wdio.conf.js                         # WebDriverIO and Appium configuration
 ```
+---
 
 ## Demo Video
 
